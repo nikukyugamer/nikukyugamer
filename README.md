@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My other organization
+- My other organizations
   - https://github.com/true-runes
   - https://github.com/murasamejo
 
